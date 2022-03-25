@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<!-- - 🔭 I’m currently working on  -->
+ - 🔭 I’m currently a student at microverse.
 - 🌱 I’m currently learning React, Ruby and Rails.
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with contributing to my open source projets.
