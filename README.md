@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with contributing to my open source projets.
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: email me on didiersangwa@gmail.com,
-- GitHub: [Didier Sangwa](https://github.com/sangwa7)
-- Twitter: [@sangwa_7](https://twitter.com/sangwa_7)
-- LinkedIn: [Didier Sangwa](https://www.linkedin.com/in/didier-sangwa-463054227)
+- 📫 Find me: 
+       didiersangwa@gmail.com,
+       GitHub: [Didier Sangwa](https://github.com/sangwa7)
+       Twitter: [@sangwa_7](https://twitter.com/sangwa_7)
+       LinkedIn: [Didier Sangwa](https://www.linkedin.com/in/didier-sangwa-463054227)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
