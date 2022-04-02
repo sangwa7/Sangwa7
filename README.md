@@ -7,6 +7,14 @@
 
 🔆 I'm a "Full-Stack Developer" with an experience in HTML, CSS, JavaScript, and PHP 
 
+🌟 My name is Didier Sangwa, from Kigali Rwanda Located in Middle east of Africa. 
+
+🖱️ Find me on my email: didiersangwa@gmail.com. 
+
+[My Portifolio] (https://sangwa7.github.io/Portifolio/)
+
+name, e-mail, portfolio, location, and bio
+
  - 🔭 I’m currently a student at microverse.
 - 🌱 I’m currently learning React, Ruby and Rails.
 - 👯 I’m looking to collaborate on open source projects
