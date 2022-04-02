@@ -11,7 +11,7 @@
 
 🖱️ Find me on my email: didiersangwa@gmail.com. 
 
-[My Portifolio] (https://sangwa7.github.io/Portifolio/)
+[My Portifolio](https://sangwa7.github.io/Portifolio/)
 
 name, e-mail, portfolio, location, and bio
 
