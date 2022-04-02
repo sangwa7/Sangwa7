@@ -3,7 +3,9 @@
 
 <!-- **sangwa7/Sangwa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
+
+🔆 I'm a "Full-Stack Developer" with an experience in HTML, CSS, JavaScript, and PHP 
 
  - 🔭 I’m currently a student at microverse.
 - 🌱 I’m currently learning React, Ruby and Rails.
