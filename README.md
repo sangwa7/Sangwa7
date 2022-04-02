@@ -13,6 +13,8 @@
 
 [My Portifolio](https://sangwa7.github.io/Portifolio/)
 
+🏏 I'm open to new job oportunities 
+
 name, e-mail, portfolio, location, and bio
 
  - 🔭 I’m currently a student at microverse.
