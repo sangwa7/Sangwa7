@@ -18,7 +18,6 @@
 
 🏏 I'm open to new job oportunities 
 
-name, e-mail, portfolio, location, and bio
 
  - 🔭 I’m currently a student at microverse.
 - 🌱 I’m currently learning React, Ruby and Rails.
