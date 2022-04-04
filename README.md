@@ -5,9 +5,12 @@
 
 <!-- Here are some ideas to get you started: -->
 
-🔆 I'm a "Full-Stack Developer" with an experience in HTML, CSS, JavaScript, and PHP 
+🌟 My name is Didier Sangwa, from Kigali Rwanda Located in Middle east of Africa.
 
-🌟 My name is Didier Sangwa, from Kigali Rwanda Located in Middle east of Africa. 
+🏂 I'm currently a full stack developer at M-Silicon Lab ltd. 
+
+🔆 I'm A Full-stack developer with knowledge in HTML | CSS | JavaScript | PHP, In my spare time I research, make graphics designs and UX/UI, looking for a Remote Tech.
+
 
 🖱️ Find me on my email: didiersangwa@gmail.com. 
 
